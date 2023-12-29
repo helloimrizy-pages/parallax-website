@@ -1,0 +1,139 @@
+/* header */
+.web-header {
+    width: 100%;
+    background-color: transparent;
+    font-size: 24px;
+    padding: 20px 0; 
+    text-align: center; 
+}
+
+.navigation-menu ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+}
+
+.navigation-menu li {
+    display: inline;
+    margin-right: 60px;
+}
+
+.navigation-menu a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.navigation-menu a:hover {
+    color: #007BFF;
+}
+
+/* text content */
+
+.text-overlay {
+    position: fixed;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px; 
+    color: #C7D85D; 
+    z-index: 20;
+}
+
+#text-main {
+    background-color: #C7D85D;
+    height: 100vh;
+  }
+
+#text-container {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+#text-title {
+    color: #f6f6db;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: "Helvetica Neue";
+}
+
+#text-content {
+    color: #f6f6db;
+    font-size: 20px;
+}
+
+/* parallax */
+
+.animation, .animation-element {
+    height: 1000px;
+}
+
+.animation {
+    display: block;
+    position: relative;
+    z-index: 10;
+}
+
+.animation-element {
+    background-position: bottom center;
+    background-size: auto 1038px;
+    background-repeat: repeat-x;
+    width: 100%;
+    position: absolute;
+}
+.animation-element.parallax {
+    position: fixed;
+}
+
+.animation {
+    background-color: #F3E6A7;
+}
+
+/* import images */
+#hill {
+    background-image: url(./images/hill.svg);
+}
+
+#rock-mountain {
+    background-image: url(./images/rock_mountain.svg);
+}
+
+#tree-right {
+    background-image: url(./images/tree_right.svg);
+    background-position: 0px -80px;
+}
+
+#mountain {
+    background-image: url(./images/mountain.svg);
+}
+
+
+#tree-left {
+    background-image: url(./images/tree_left.svg);
+    background-position: 0px -50px;
+}
+
+#red-rocks {
+    background-image: url(./images/red_rocks.svg);
+}
+
+#tent {
+    background-image: url(./images/tent.svg);
+}
+
+#cloud-left {
+    background-image: url(./images/cloud_left.svg);
+}
+
+#cloud-right {
+    background-image: url(./images/cloud_right.svg);
+}
+
+#birds-left {
+    background-image: url(./images/birds_left.svg);
+}
+
+#birds-right {
+    background-image: url(./images/birds_right.svg);
+}
