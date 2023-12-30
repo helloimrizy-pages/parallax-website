@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/parallax-website/static/css/main.3fdbbf2a.css",
+    "main.js": "/parallax-website/static/js/main.69a82350.js",
+    "static/js/787.dd1077ba.chunk.js": "/parallax-website/static/js/787.dd1077ba.chunk.js",
+    "static/media/red_rocks.svg": "/parallax-website/static/media/red_rocks.1d5668651abf759fe2cc.svg",
+    "static/media/tree_left.svg": "/parallax-website/static/media/tree_left.c0df202184df18cfe082.svg",
+    "static/media/cloud_right.svg": "/parallax-website/static/media/cloud_right.6d97b52d75c7a358742a.svg",
+    "static/media/cloud_left.svg": "/parallax-website/static/media/cloud_left.a14303da83bd5ad2f030.svg",
+    "static/media/mountain.svg": "/parallax-website/static/media/mountain.fa06dc1fcbdb44449177.svg",
+    "static/media/tent.svg": "/parallax-website/static/media/tent.9413dcb1eae3fe6e1597.svg",
+    "static/media/tree_right.svg": "/parallax-website/static/media/tree_right.10d42fcc9c87584baf1c.svg",
+    "static/media/rock_mountain.svg": "/parallax-website/static/media/rock_mountain.a1e95073cb568057a667.svg",
+    "static/media/birds_right.svg": "/parallax-website/static/media/birds_right.b93c345ba5a870c0b669.svg",
+    "static/media/birds_left.svg": "/parallax-website/static/media/birds_left.9bd5b08538e97da7b452.svg",
+    "static/media/hill.svg": "/parallax-website/static/media/hill.5d0749f6d6157396830b.svg",
+    "index.html": "/parallax-website/index.html",
+    "main.3fdbbf2a.css.map": "/parallax-website/static/css/main.3fdbbf2a.css.map",
+    "main.69a82350.js.map": "/parallax-website/static/js/main.69a82350.js.map",
+    "787.dd1077ba.chunk.js.map": "/parallax-website/static/js/787.dd1077ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fdbbf2a.css",
+    "static/js/main.69a82350.js"
+  ]
+}
